@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-gal%C3%A1n-acedo-64b400238/](https://www.linkedin.com/in/pablo-gal%C3%A1n-acedo-64b400238/)
 
+- 🚀 Check out the latest project that I have developed! [user-management-api-fast-secure-redis](https://github.com/pgalandev/user-management-api-fast-secure-redis)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablo-galán-acedo-64b400238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-galán-acedo-64b400238" height="30" width="40" /></a>
