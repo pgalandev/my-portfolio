@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Galán Acedo</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🔭 I’m currently working on **Ayesa AT**
+- 🔭 I’m currently working at **Ayesa AT**
 
 - 💬 Ask me about **microservicies, java, docker...**
 
